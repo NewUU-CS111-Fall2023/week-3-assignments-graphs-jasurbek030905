@@ -5,7 +5,7 @@
  */
 
 #include <iostream>
-#include "task_1.h"
+#include "task_3.h"
 
 int main() {
     std::cout << "Task 1" << std::endl;
